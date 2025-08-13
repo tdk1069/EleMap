@@ -1,5 +1,5 @@
 {
-    "title": "%title",
+    "title": "EleMap",
     "copy": "Copy",
     "search": "Search",
     "search-help": "search",
@@ -50,7 +50,7 @@
     "up": "up",
     "down": "down",
     "switch-map-version": "Switch map version:",
-    "remark": "%description%",
+    "remark": "World Map",
     "no-clipboard": "Your browser does not support clipboard",
     "location-not-found": "Location not found",
     "minimap": "Minimap",
